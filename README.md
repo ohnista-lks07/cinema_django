@@ -7,7 +7,7 @@
 ## Технології
 
 * Python 3.13
-* Django 4.x
+* Django 6.0.3
 
 ---
 
